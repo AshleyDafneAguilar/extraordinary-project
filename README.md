@@ -1,5 +1,7 @@
 <h1 align="center">extraordinary-project</h1>
 
+![img1](./docs/img/sistemas-distribuidos.jpg)
+
 ## Author 
 - [Ashley Dafne Aguilar Salinas - UNAM ENES Morelia](https://github.com/AshleyDafneAguilar)
 
