@@ -128,7 +128,7 @@ def get_data(url: str, attempts = 5):
 
 if __name__ == '__main__':
 
-	api_key = 'e2f7301d6aa0af870a21056549625d2c'
+	api_key = 'your_api_key'
 	url = f"https://api.themoviedb.org/3/movie/top_rated?api_key={api_key}&language=en-US&page=1"
 	#url = 'https://api.themoviedb.org/3/movie/top_rated?api_key=e2f7301d6aa0af870a21056549625d2c&language=en-US&page=1'
 	main(url)
