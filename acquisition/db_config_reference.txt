@@ -1,0 +1,12 @@
+This document describes the db_config.py Python script used to connect to the database (extraordinaryproject). db_config.py is a python script that contains a dictionary (stetting) this dictionary has the following structure:
+
+setting = {
+	'user': 'root',
+	'password':'password' ,
+	'host': '127.0.0.1',
+	'port': 3306,
+	'database': 'extraordinaryproject'}
+
+The original script contains the actual data or values ​​to connect to the database, for security this script is not uploaded to github.
+
+
